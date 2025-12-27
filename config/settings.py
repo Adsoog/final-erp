@@ -18,6 +18,9 @@ INSTALLED_APPS = [
     # EXTRA apps
     'tailwind',
     'theme',
+    # APPS
+    'core',
+    'users'
 
 ]
 
