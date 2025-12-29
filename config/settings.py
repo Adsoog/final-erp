@@ -21,6 +21,7 @@ INSTALLED_APPS = [
     # APPS
     "apps.core",
     "apps.users",
+    "apps.partners",
 ]
 
 AUTH_USER_MODEL = "users.User"
